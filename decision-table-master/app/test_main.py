@@ -8,7 +8,7 @@ import sys
 
 @pytest.fixture
 def decision_table() -> "DecisionTable":
-    filepath = Path("C:/Users/ABC/Desktop/decision-table-master/tests/resources/decision_tables/scoring_process_result.csv")
+    filepath = Path("tests/resources/decision_tables/scoring_process_result.csv")
     return DecisionTable.create_from_csv(filepath)
 
 
