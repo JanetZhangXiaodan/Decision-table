@@ -3,9 +3,8 @@
 Sample python test for decision table
 
 
-========================================
-main on CMD
-========================================
+## main on CMD
+
 cd C:\Users\ABC\Desktop\decision-table-master
 pipenv install --dev
 pipenv shell
@@ -19,9 +18,9 @@ python3 main.py
 Result:
 Status: APPROVED
 
-========================================
-Unittest on CMD
-========================================
+
+## Unittest on CMD
+
 cd ..
 C:/Users/ABC/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/ABC/Desktop/decision-table-master/app/test_main.py
 
