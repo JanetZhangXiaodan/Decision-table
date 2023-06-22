@@ -38,3 +38,10 @@ tests\test_decision_table.py ....                                               
 ================================================== 7 passed in 0.07s ==================================================
 
 pipenv --rm
+
+
+![image](https://github.com/JanetZhangXiaodan/Decision-table/assets/15668158/82b707c5-e307-48f0-907f-57d66a5d7508)
+![image](https://github.com/JanetZhangXiaodan/Decision-table/assets/15668158/37100c83-7c16-49cb-8cb8-e6224f357a68)
+![image](https://github.com/JanetZhangXiaodan/Decision-table/assets/15668158/f30f5788-6d1a-4956-a66d-989a426c4657)
+![image](https://github.com/JanetZhangXiaodan/Decision-table/assets/15668158/548eb50a-a3b6-4c2d-8ca8-e82215028741)
+
